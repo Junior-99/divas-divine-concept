@@ -1,0 +1,3 @@
+# Beauty with attitude
+
+Fuchsia, paper ivory and oxblood; oversized Bodoni editorial serif paired with clean sans-serif. Cut-out number labels, circular photo masks and deliberately staggered magazine spreads. Hero is actual salon hair work, not a generic beauty stock image. Original 3D hanging photo-mobile rotates as the page scrolls. Service guide, archive and planner have dedicated HTML routes. Contrast, keyboard controls, visible focus, reduced motion and small-screen layout are retained. Design inspiration: fashion editorial composition and Pinterest beauty-magazine layouts; no template assets or code copied.
